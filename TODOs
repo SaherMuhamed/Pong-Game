@@ -1,0 +1,15 @@
+# TODO 1: Create the screen.
+
+# TODO 2: Create and move the left paddle.
+
+# TODO 3: Create and move the right paddle.
+
+# TODO 4: Create the ball and make it move.
+
+# TODO 5: Detect collision with wall and bounce.
+
+# TODO 6: Detect collision with another paddle.
+
+# TODO 7: Detect when paddle missed.
+
+# TODO 8: Keep score.
